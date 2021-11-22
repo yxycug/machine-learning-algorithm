@@ -5,4 +5,4 @@ This is about 7 machine-learning algorithms and test by minst dataset.
 
 >*Reinventing the wheel*
 
-a little messy & maybe some mistake
+a little messy & maybe some mistakes
